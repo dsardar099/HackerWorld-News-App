@@ -1,5 +1,5 @@
 # This is a Tech News App developed using Express JS and HTML, CSS, Bootstrap5 & JS by the help of Hacker News API.
-# Author: Dwaipayan Sardar ( dwaipayan.sardar@vitra.ai )
+# Author: Dwaipayan Sardar ( dsardar099@gmail.com )
 # These are some screenshots of the functionalities of this app.
 ##  Main UI
 ![alt text](image/NewsApp1.jpeg "Main UI")
